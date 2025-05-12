@@ -184,6 +184,7 @@ exclude:
   - _posts/
   - assets/jupyter/blog.ipynb
   - _projects/*_project.md
+  - /_layouts/page.liquid
 
   - bin/
   - CONTRIBUTING.md
