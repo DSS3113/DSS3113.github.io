@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - DSS3113/MALHelper
+  - DSS3113/dasam-granth-search-engine
+  - DSS3113/Rust-Style-Transfer
+  - DSS3113/EquityBot
+  - cs411-alawini/fa23-cs411-team068-411Gangsters
+  - CS222-UIUC/course-project-pokerleaderboard

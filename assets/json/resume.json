@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Danish Singh Sethi",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "dssethi2 (at) illinois (dot) edu",
+    "url": "https://dss3113.github.io/",
+    "summary": "Aspiring Software Engineer with a zeal for developing technology to better the world.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,185 +14,351 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "danish-singh-sethi",
+        "url": "https://www.linkedin.com/in/danish-singh-sethi/"
+      },
+      {
+        "network": "GitHub",
+        "username": "DSS3113",
+        "url": "https://github.com/DSS3113"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Platinum Systems",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2023-02-01",
+      "endDate": "Present",
+      "summary": "Developing and optimizing an Android application using Kotlin and Jetpack Compose.",
+      "highlights": [
+        "Optimized the Android app's frontend with Kotlin, improving UI responsiveness and performance.",
+        "Led migration from XML to Jetpack Compose, reducing code complexity by 30% and modernizing the frontend.",
+        "Boosted database query efficiency by 25% with optimized SQL queries for a remote MariaDB server."
+      ]
+    },
+    {
+      "name": "Insort GmbH",
+      "position": "Machine Learning Intern",
+      "url": "",
+      "startDate": "2024-08-01",
+      "endDate": "2025-01-31",
+      "summary": "Developing computer vision and machine learning solutions for quality control.",
+      "highlights": [
+        "Pioneered a computer vision system for automated hazelnut quality control with 95% accuracy, easing defect detection.",
+        "Architected ML pipeline with CNNs, SVMs, and transfer learning in TensorFlow, boosting accuracy by 40%.",
+        "Leveraged VGG16 architecture for feature extraction and SVM classification, optimizing model performance.",
+        "Implemented SIFT-CNN with PyTorch, achieving optimal results and reducing manual inspection time by 75%."
+      ]
+    },
+    {
+      "name": "University of Applied Sciences, Landshut",
+      "position": "Software Engineer Intern",
+      "url": "",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-31",
+      "summary": "Building web applications with React and AWS for sensor data visualization.",
+      "highlights": [
+        "Built React/TypeScript app with AWS & Chart.js, visualizing sensor data and weather forecasts dynamically.",
+        "Used S3, DynamoDB, Lambda, Cognito, & Amplify for data handling, updates, security, and deployment.",
+        "Boosted frost prediction accuracy by 20% with automated updates via RESTful APIs (API Gateway)."
+      ]
+    },
+    {
+      "name": "AGCO Corp",
+      "position": "Software Engineer Intern",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-31",
+      "summary": "Developing web applications for farm machinery telemetry data.",
+      "highlights": [
+        "Developed a React web app to provide farm machinery dealers access to telemetry data for performance analysis.",
+        "Designed and implemented a reporting system with AWS & Chart.js to generate machine performance reports.",
+        "Improved data retrieval speed by 20% with Lambda functions for efficient interaction with S3 and DynamoDB.",
+        "Enhanced API response times by 25% by integrating API Gateway for seamless app-backend communication."
+      ]
+    },
+    {
+      "name": "AGCO Corp",
+      "position": "Data Science Intern",
+      "url": "",
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-31",
+      "summary": "Analyzing after-sales data and performing sentiment analysis.",
+      "highlights": [
+        "Extracted insights from after-sales data using Databricks & MS Excel.",
+        "Performed sentiment analysis & topic extraction on comments on AGCO-owned YouTube channels using NLTK.",
+        "Wrote a Python script with sktime to optimize forecasting models for machinery stock keeping units.",
+        "Achieved 96.9% reduction in time taken for cross-validation through effective optimization techniques."
+      ]
+    }
+  ],
+  "research": [
+    {
+      "name": "Secure & Transparent Systems Laboratory",
+      "position": "Independent Study",
+      "url": "",
+      "startDate": "2024-09-12",
+      "endDate": "2024-12-31",
+      "summary": "",
+      "highlights": [
+        "Built a web app to assist cybersecurity analysts trace suspicious activity through provenance graph visualization",
+        "Employed Splunk for data hosting, React and Splunk UI Toolkit for the frontend, and Flask for the backend.",
+        "Implemented graph visualization using React Flow and vis.js."
+      ]
+    },
+    {
+      "name": "Institute of Communications Research",
+      "position": "Independent Study",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-31",
+      "summary": "",
+      "highlights": [
+        "Enhanced a clone of the X social media platform using Next.js/TypeScript and storing user data on Firebase.",
+        "Implemented viewport-based exposure tracking and repost-chain visualization.",
+        "Engineered custom event tracking system to capture user interaction metrics and post visibility duration in real-time."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "organization": "Civic Engagement Committee - UIUC Honors Student Council",
+      "location": "Urbana, IL",
+      "position": "Volunteer",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ["Supported environmental sustainability by participating in six Illini Lights Out events, conserving around $700 worth of electricity by turning off lights in campus buildings.", "Organized the “Annual Season of Giving” community Christmas event at the Helping Our Youth Change Everyday (HOYCE) Center, Champaign IL in December 2023.", "Volunteered at the Urbana-Champaign Books to Prisoners sale in October 2023, contributing to the effort to supply incarcerated individuals with free books.", "Proudly represented the Campus Honors Program by overseeing a bookmark-making station at the UIUC Fall 2023 Queer Block Party in September 2023."]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "Urbana, IL",
+      "url": "https://illinois.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-08-22",
+      "endDate": "2026-05-15",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Distributed Systems", "Natural Language Processing", "Machine Learning", "Introduction Algorithms & Models of Computation", "Systems Programming", "Data Structures (Honors)", "Database Systems", "Numerical Methods"]
+    },
+    {
+      "institution": "Technische Universität Wien (Vienna University of Technology)",
+      "location": "Vienna, Austria",
+      "url": "https://www.tuwien.at/en/",
+      "area": "Informatik",
+      "studyType": "Exchange Program",
+      "startDate": "2024-08-30",
+      "endDate": "2025-01-15",
+      "score": "10",
+      "courses": ["Introduction to Machine Learning", "Computer Vision"]
+    },
+    {
+      "institution": "Wirtschaftsuniversität Wien (Vienna University of Economics and Business)",
+      "location": "Vienna, Austria",
+      "url": "https://www.wu.ac.at/en/",
+      "studyType": "Exchange Program",
+      "startDate": "2024-08-30",
+      "endDate": "2025-01-15",
+      "score": "10",
+      "courses": ["German C1 (WU Language Resource Center)", "Austria and Europe: A Political, Economic, and Cultural History"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Chancellor's Scholar",
+      "date": "2023-03-01",
+      "awarder": "Campus Honors Program",
+      "summary": "Approximately 600 undergraduate students at the University of Illinois Urbana-Champaign participate in the Campus Honors Program (CHP). These students, designated Chancellor's Scholars, represent all colleges and a huge variety of disciplines on campus. They take several small, intensive, and collaborative courses in a wide range of fields. Chancellor's Scholars also participate in co-curricular experiences, including domestic or international travel courses as well as campus and community exploration. The CHP is for students who desire a broad and general as well as specialized education."
+    },
+    {
+      "title": "Edmund J. James Scholar",
+      "date": "2023-01-01",
+      "awarder": "Grainger College of Engineering",
+      "summary": "Students who maintain a minimum GPA of 3.5 can self-nominate to be a James Scholar."
+    },
+    {
+      "title": "Edward Fichtner and Paula Sutter Fichtner Award",
+      "date": "2024-04-01",
+      "awarder": "Department of Germanic Languages and Literatures (UIUC)",
+      "summary": "Competitive scholarship awarded to up to two students per year to participate in the Illinois in Vienna study abroad program."
+    },
+    {
+      "title": "Pauline Steiner Schwalbe Undergraduate Student Award",
+      "date": "2023-04-01",
+      "awarder": "Department of Germanic Languages and Literatures (UIUC)",
+      "summary": "Awarded to an undergraduate student enrolled in the Department of Germanic Languages and Literatures and studying abroad in a program recognized by the department."
+    },
+    {
+      "title": "Terry and Mary Claire Welch Award",
+      "date": "2023-03-01",
+      "awarder": "Department of Germanic Languages and Literatures (UIUC)",
+      "summary": "Awarded to recognize Academic Achievement in German of an undergraduate student."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Introduction to Computer Vision and Image Processing",
+      "date": "July 2023",
+      "issuer": "IBM",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/X8OITTTSL7OK",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning",
+      "date": "July 2023",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/OWMTPJSCPS1K",
+      "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
+      "name": "Probability and Statistics for Machine Learning & Data Science",
+      "date": "July 2023",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/99DRL5OB9O20",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Apply AI",
+      "date": "April 2023",
+      "issuer": "AI4ALL",
+      "url": "https://drive.google.com/file/d/1FR8zHngXbIRTtq8kItBSxbh9eLQtBu4C/view",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Discover AI",
+      "date": "December 2022",
+      "issuer": "AI4ALL",
+      "url": "https://drive.google.com/file/d/1KtSJpEfOj0bBhwbRo7O-NEfHf9ZKNuqx/view",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Machine Learning",
+      "date": "March 2021",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "url": "https://www.coursera.org/account/accomplishments/certificate/QM9H3U8H0ZDA",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Python for Everybody Specialization",
+      "date": "March 2021",
+      "issuer": "University of Michigan",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/AFRJETZ1H1JU",
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+   
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C",
+        "C++",
+        "Golang",
+        "Java",
+        "JavaScript",
+        "Kotlin",
+        "Python",
+        "Rust",
+        "MySQL",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "ML & Data Science",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "NLTK",
+        "OpenCV",
+        "PyTorch",
+        "scikit-learn",
+        "TensorFlow",
+        "Pillow"
+      ]
+    },
+    {
+      "name": "Cloud Technologies",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Amazon Web Services",
+        "Firebase",
+        "Splunk"
+      ]
+    },
+    {
+      "name": "Web Frameworks",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Django",
+        "Flask",
+        "Next.js",
+        "React",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git",
+        "Linux",
+        "VS Code"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Persian",
+      "fluency": "Beginner",
+      "icon": ""
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Proficient",
+      "icon": ""
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Natural Language Processing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Knowledge Editing",
+        "Knowledge Representation"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+    
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+    
   ]
 }
