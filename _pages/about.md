@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hi there! I'm Danish, a junior studying Computer Science at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign's</a> <a href="https://grainger.illinois.edu/">Grainger College of Engineering</a>. I was born and raised in Chandigarh, India, which has given me a unique perspective that I bring to my work in technology.
+👋 Hi there! I'm Danish, a junior studying Computer Science at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign's</a> <a href="https://grainger.illinois.edu/">Grainger College of Engineering</a>. I am from India an extremely diverse country with a plethora of cultures which has given me a unique perspective that I bring to my work in tech.
 
 I'm passionate about developing innovations that can make a real difference in the world. While I'm still exploring my career options, I'm currently most drawn to roles as a machine learning engineer or software developer where I can tackle complex problems and contribute meaningfully to society.
 
