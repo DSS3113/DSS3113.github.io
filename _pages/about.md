@@ -27,8 +27,8 @@ latest_posts:
 
 👋 Hi there! I'm Danish, a junior studying Computer Science at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign's</a> <a href="https://grainger.illinois.edu/">Grainger College of Engineering</a>. I am from India, an extremely diverse country with a plethora of cultures, which has given me a unique perspective that I bring to my work in tech.
 
-I'm passionate about developing innovations that can make a real difference in the world. While I'm still exploring my career options, I'm currently most drawn to roles as a machine learning engineer or software developer where I can tackle complex problems and contribute meaningfully to society.
+💻 I'm passionate about developing innovations that can make a real difference in the world. While I'm still exploring my career options, I'm currently most drawn to roles as a machine learning engineer or software developer where I can tackle complex problems and contribute meaningfully to society.
 
-When I'm not coding or studying, I maintain balance in my life through various activities. You'll often find me consuming horror movies or series; watching anime; reading about language, culture, and religion; or immersing myself in poetry—a creative outlet that complements my technical interests.
+📚 When I'm not coding or studying, I maintain balance in my life through various activities. You'll often find me consuming horror movies or series; watching anime; reading about language, culture, and religion; or immersing myself in poetry—a creative outlet that complements my technical interests.
 
 I'm excited about the possibilities that lie ahead and eager to use my skills to create technology that betters our world!
