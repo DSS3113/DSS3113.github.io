@@ -27,11 +27,20 @@
   },
   "work": [
     {
+      "name": "Amazon Web Services",
+      "position": "Software Development Engineer Intern",
+      "url": "",
+      "startDate": "2025-05-19",
+      "endDate": "",
+      "summary": "Working on the AWS Bedrock team.",
+      "highlights": []
+    },
+    {
       "name": "Platinum Systems",
       "position": "Software Engineer",
       "url": "",
       "startDate": "2023-02-01",
-      "endDate": "Present",
+      "endDate": "",
       "summary": "Developing and optimizing an Android application using Kotlin and Jetpack Compose.",
       "highlights": [
         "Optimized the Android app's frontend with Kotlin, improving UI responsiveness and performance.",
