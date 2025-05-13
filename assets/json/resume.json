@@ -25,6 +25,40 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "Urbana, IL",
+      "url": "https://illinois.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-08-22",
+      "endDate": "2026-05-15",
+      "score": "10",
+      "courses": ["Distributed Systems", "Natural Language Processing", "Machine Learning", "Introduction to Algorithms & Models of Computation", "Systems Programming", "Data Structures (Honors)", "Database Systems", "Numerical Methods"]
+    },
+    {
+      "institution": "Technische Universität Wien (Vienna University of Technology)",
+      "location": "Vienna, Austria",
+      "url": "https://www.tuwien.at/en/",
+      "area": "Informatik",
+      "studyType": "Exchange Program",
+      "startDate": "2024-08-30",
+      "endDate": "2025-01-15",
+      "score": "10",
+      "courses": ["Introduction to Machine Learning", "Computer Vision"]
+    },
+    {
+      "institution": "Wirtschaftsuniversität Wien (Vienna University of Economics and Business)",
+      "location": "Vienna, Austria",
+      "url": "https://www.wu.ac.at/en/",
+      "studyType": "Exchange Program",
+      "startDate": "2024-08-30",
+      "endDate": "2025-01-15",
+      "score": "10",
+      "courses": ["German C1 (WU Language Resource Center)", "Austria and Europe: A Political, Economic, and Cultural History"]
+    }
+  ],
   "work": [
     {
       "name": "Amazon Web Services",
@@ -141,40 +175,6 @@
       "endDate": "Present",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Supported environmental sustainability by participating in six Illini Lights Out events, conserving around $700 worth of electricity by turning off lights in campus buildings.", "Organized the “Annual Season of Giving” community Christmas event at the Helping Our Youth Change Everyday (HOYCE) Center, Champaign IL in December 2023.", "Volunteered at the Urbana-Champaign Books to Prisoners sale in October 2023, contributing to the effort to supply incarcerated individuals with free books.", "Proudly represented the Campus Honors Program by overseeing a bookmark-making station at the UIUC Fall 2023 Queer Block Party in September 2023."]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Illinois Urbana-Champaign",
-      "location": "Urbana, IL",
-      "url": "https://illinois.edu/",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2022-08-22",
-      "endDate": "2026-05-15",
-      "score": "10",
-      "courses": ["Distributed Systems", "Natural Language Processing", "Machine Learning", "Introduction Algorithms & Models of Computation", "Systems Programming", "Data Structures (Honors)", "Database Systems", "Numerical Methods"]
-    },
-    {
-      "institution": "Technische Universität Wien (Vienna University of Technology)",
-      "location": "Vienna, Austria",
-      "url": "https://www.tuwien.at/en/",
-      "area": "Informatik",
-      "studyType": "Exchange Program",
-      "startDate": "2024-08-30",
-      "endDate": "2025-01-15",
-      "score": "10",
-      "courses": ["Introduction to Machine Learning", "Computer Vision"]
-    },
-    {
-      "institution": "Wirtschaftsuniversität Wien (Vienna University of Economics and Business)",
-      "location": "Vienna, Austria",
-      "url": "https://www.wu.ac.at/en/",
-      "studyType": "Exchange Program",
-      "startDate": "2024-08-30",
-      "endDate": "2025-01-15",
-      "score": "10",
-      "courses": ["German C1 (WU Language Resource Center)", "Austria and Europe: A Political, Economic, and Cultural History"]
     }
   ],
   "awards": [

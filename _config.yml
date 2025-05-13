@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Bachelor of Science in Computer Science at UIUC
 footer_text: >
-  Last updated: May 11, 2025
+  Last updated: May 14, 2025
 keywords: computer-science, software-engineering, quant-development, uiuc, grainger, siebel, website-development # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -644,8 +644,8 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
   - education
+  - work
   - publications
   - projects
   - research
