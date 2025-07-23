@@ -77,9 +77,9 @@
       "endDate": "",
       "summary": "Developing and optimizing an Android application using Kotlin and Jetpack Compose.",
       "highlights": [
-        "Optimized the Android app's frontend with Kotlin, improving UI responsiveness and performance.",
-        "Led migration from XML to Jetpack Compose, reducing code complexity by 30% and modernizing the frontend.",
-        "Boosted database query efficiency by 25% with optimized SQL queries for a remote MariaDB server."
+        "Implementing parallel processing for model inference and RAG in AWS Bedrock Evaluations.",
+        "Building a service limit retrieval framework for AWS inference APIs to reduce timeout errors.",
+        "Optimizing parallel API calls within rate limits, enabling higher throughput while maintaining cost efficiency."
       ]
     },
     {
