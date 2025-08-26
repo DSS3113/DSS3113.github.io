@@ -66,8 +66,13 @@
       "url": "",
       "startDate": "2025-05-19",
       "endDate": "",
-      "summary": "Working on the AWS Bedrock team.",
-      "highlights": []
+      "summary": "Building scalable and efficient backend services for AWS Bedrock, focusing on large language model integrations and optimizations.",
+      "highlights": [
+        "Implemented parallel inference for model and Retrieval-Augmented Generation evaluations on AWS Bedrock.",
+        "Reduced time taken for inference by an average of 55%.",
+        "Built a service limit retrieval framework for AWS inference APIs to reduce timeout errors.",
+        "Optimized parallel API calls within rate limits, enabling higher throughput while maintaining cost efficiency."
+      ]
     },
     {
       "name": "Platinum Systems",
@@ -77,9 +82,9 @@
       "endDate": "",
       "summary": "Developing and optimizing an Android application using Kotlin and Jetpack Compose.",
       "highlights": [
-        "Implementing parallel processing for model inference and RAG in AWS Bedrock Evaluations.",
-        "Building a service limit retrieval framework for AWS inference APIs to reduce timeout errors.",
-        "Optimizing parallel API calls within rate limits, enabling higher throughput while maintaining cost efficiency."
+        "Optimized the Android app’s frontend with Kotlin, improving UI responsiveness and performance.",
+        "Led migration from XML to Jetpack Compose, reducing code complexity by 30% and modernizing the frontend.",
+        "Boosted database query efficiency by 25% with optimized SQL queries for a remote MariaDB server."
       ]
     },
     {
