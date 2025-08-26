@@ -65,7 +65,7 @@
       "position": "Software Development Engineer Intern",
       "url": "",
       "startDate": "2025-05-19",
-      "endDate": "",
+      "endDate": "2025-08-08",
       "summary": "Building scalable and efficient backend services for AWS Bedrock, focusing on large language model integrations and optimizations.",
       "highlights": [
         "Implemented parallel inference for model and Retrieval-Augmented Generation evaluations on AWS Bedrock.",
@@ -82,7 +82,7 @@
       "endDate": "",
       "summary": "Developing and optimizing an Android application using Kotlin and Jetpack Compose.",
       "highlights": [
-        "Optimized the Android app’s frontend with Kotlin, improving UI responsiveness and performance.",
+        "Optimized the Android app's frontend with Kotlin, improving UI responsiveness and performance.",
         "Led migration from XML to Jetpack Compose, reducing code complexity by 30% and modernizing the frontend.",
         "Boosted database query efficiency by 25% with optimized SQL queries for a remote MariaDB server."
       ]
@@ -93,7 +93,7 @@
       "url": "",
       "startDate": "2024-08-01",
       "endDate": "2025-01-31",
-      "summary": "Developing computer vision and machine learning solutions for quality control.",
+      "summary": "Developed computer vision and machine learning solutions for quality control.",
       "highlights": [
         "Pioneered a computer vision system for automated hazelnut quality control with 95% accuracy, easing defect detection.",
         "Architected ML pipeline with CNNs, SVMs, and transfer learning in TensorFlow, boosting accuracy by 40%.",
@@ -107,7 +107,7 @@
       "url": "",
       "startDate": "2024-05-01",
       "endDate": "2024-08-31",
-      "summary": "Building web applications with React and AWS for sensor data visualization.",
+      "summary": "Built web applications with React and AWS for sensor data visualization.",
       "highlights": [
         "Built React/TypeScript app with AWS & Chart.js, visualizing sensor data and weather forecasts dynamically.",
         "Used S3, DynamoDB, Lambda, Cognito, & Amplify for data handling, updates, security, and deployment.",
@@ -120,7 +120,7 @@
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "2024-05-31",
-      "summary": "Developing web applications for farm machinery telemetry data.",
+      "summary": "Developed web applications for farm machinery telemetry data.",
       "highlights": [
         "Developed a React web app to provide farm machinery dealers access to telemetry data for performance analysis.",
         "Designed and implemented a reporting system with AWS & Chart.js to generate machine performance reports.",
@@ -134,7 +134,7 @@
       "url": "",
       "startDate": "2023-05-01",
       "endDate": "2023-12-31",
-      "summary": "Analyzing after-sales data and performing sentiment analysis.",
+      "summary": "Analyzed after-sales data and performing sentiment analysis.",
       "highlights": [
         "Extracted insights from after-sales data using Databricks & MS Excel.",
         "Performed sentiment analysis & topic extraction on comments on AGCO-owned YouTube channels using NLTK.",
