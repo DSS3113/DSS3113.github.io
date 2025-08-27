@@ -79,7 +79,7 @@
       "url": "",
       "startDate": "2025-05-19",
       "endDate": "2025-08-08",
-      "summary": "Building scalable and efficient backend services for AWS Bedrock, focusing on large language model integrations and optimizations.",
+      "summary": "Built scalable and efficient backend services for AWS Bedrock, focusing on large language model integrations and optimizations.",
       "highlights": [
         "Implemented parallel inference for model and Retrieval-Augmented Generation evaluations on AWS Bedrock.",
         "Reduced time taken for inference by an average of 55%.",
