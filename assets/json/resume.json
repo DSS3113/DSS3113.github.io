@@ -61,19 +61,6 @@
   ],
   "work": [
     {
-      "name": "Platinum Systems",
-      "position": "Software Engineer",
-      "url": "",
-      "startDate": "2023-02-01",
-      "endDate": "",
-      "summary": "Developing and optimizing an Android application using Kotlin and Jetpack Compose.",
-      "highlights": [
-        "Optimized the Android app's frontend with Kotlin, improving UI responsiveness and performance.",
-        "Led migration from XML to Jetpack Compose, reducing code complexity by 30% and modernizing the frontend.",
-        "Boosted database query efficiency by 25% with optimized SQL queries for a remote MariaDB server."
-      ]
-    },
-    {
       "name": "Amazon Web Services",
       "position": "Software Development Engineer Intern",
       "url": "",
