@@ -62,6 +62,15 @@
   "work": [
     {
       "name": "Amazon Web Services",
+      "position": "Software Development Engineer I",
+      "url": "",
+      "startDate": "2026-02-16",
+      "endDate": "Present",
+      "summary": "Team: AWS Bedrock AgentCore",
+      "highlights": []
+    },
+    {
+      "name": "Amazon Web Services",
       "position": "Software Development Engineer Intern",
       "url": "",
       "startDate": "2025-05-19",
